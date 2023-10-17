@@ -9,7 +9,7 @@
 * [Contact](#contact)
 
 ## installation
-Follow steps in Documentation pdf
+Follow steps in Documentation_2.0 pdf
 
 ## usage
 After configuring the applications in Slack and setting the appropriate environment variables, simply add both applications to the appropriate channel in Slack. The bots will automatically respond to the appropriate calls and communicate with each other.
